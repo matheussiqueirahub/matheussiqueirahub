@@ -2,7 +2,9 @@
 
 **<code>Desenvolvedor Fullstack</code>**
 
-Entre linhas verdes de código e dashboards pulsando em tempo real, transformo dados em produtos digitais acessíveis. Conduzo o **API Dashboard da Alura**, conectando integrações, automações e storytelling visual para que decisões aconteçam no ritmo certo. Minha estética favorita vem da Matrix: tipografia monoespaçada, contraste alto e interfaces que convidam quem está do outro lado da tela a escolher a pílula certa.
+Do outro lado do monitor, onde o verde fosforescente recorta o breu, transformo dados em experiências digitais que respiram. Conecto pipelines, narro histórias com métricas e desenho interfaces que parecem ter escapado de Zion.
+
+Hoje piloto o **API Dashboard da Alura**, costurando integrações, alertas e automações que mantêm squads atentos antes que as máquinas despertem.
 
 <p align="left">
   <a href="https://wa.me/5581999203683" target="_blank">
@@ -86,4 +88,4 @@ Entre linhas verdes de código e dashboards pulsando em tempo real, transformo d
 
 ---
 
-Feito com um pouco de caos controlado, café forte e linhas verdes da Matrix.
+_Siga o rastro das letras verdes — é ali que meus projetos ganham fôlego._
