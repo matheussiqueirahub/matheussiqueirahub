@@ -47,16 +47,6 @@ Entre linhas verdes de código e dashboards pulsando em tempo real, transformo d
 
 ---
 
-### Cases em destaque
-
-- <code>API Dashboard da Alura</code>: monitoramento unificado de APIs e squads, com alertas em tempo real, métricas de negócio e storytelling visual conectado a Power BI e automações serverless.
-
-### Matrix key
-
-~~~txt
-3d5814040c6db20f0baee30b05d4e8469d09b738edb579d18edaa46e8aebf11d
-~~~
-
 ### Linguagens e tecnologias
 
 <img 
