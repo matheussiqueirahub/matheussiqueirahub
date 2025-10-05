@@ -88,5 +88,3 @@ Com uma combinação de visão técnica e estratégica, busco aplicar minhas com
 </p>
 
 <div style="clear: both;"></div>
-
----
