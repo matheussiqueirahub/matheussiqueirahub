@@ -83,8 +83,9 @@ Hoje piloto o **API Dashboard da Alura**, costurando integrações, alertas e au
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussiqueirahub&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+<div style="clear: both;"></div>
 
 ---
 
