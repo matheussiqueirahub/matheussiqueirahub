@@ -88,5 +88,3 @@ Hoje piloto o **API Dashboard da Alura**, costurando integrações, alertas e au
 <div style="clear: both;"></div>
 
 ---
-
-_Siga o rastro das letras verdes — é ali que meus projetos ganham fôlego._
