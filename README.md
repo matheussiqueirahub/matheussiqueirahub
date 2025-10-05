@@ -1,10 +1,12 @@
 # Matheus Siqueira
 
-**<code>Desenvolvedor Fullstack</code>**
+**<code>Analista de Dados → Engenharia de Dados</code>**
 
-Do outro lado do monitor, onde o verde fosforescente recorta o breu, transformo dados em experiências digitais que respiram. Conecto pipelines, narro histórias com métricas e desenho interfaces que parecem ter escapado de Zion.
+Sou Analista de Dados em transição para Desenvolvimento e Engenharia de Dados, graduando em Ciência da Computação e com especializações em Inteligência Artificial com Banco de Dados, Segurança da Informação e Cloud & Edge Computing. Também concluí o curso técnico em FullStack AI, ampliando minha base em desenvolvimento web e integrações.
 
-Hoje piloto o **API Dashboard da Alura**, costurando integrações, alertas e automações que mantêm squads atentos antes que as máquinas despertem.
+Atualmente, atuo na Secretaria da Fazenda, onde desenvolvo pipelines ETL com SQL, DAX e Power Query, consolido dados públicos e crio dashboards estratégicos no Power BI que apoiam decisões de políticas fiscais. Ainda estruturo modelos relacionais robustos, automatizo análises com Python e aplico metodologias ágeis (Scrum) para garantir entregas consistentes e de impacto.
+
+Com uma combinação de visão técnica e estratégica, busco aplicar minhas competências em Banco de Dados, Business Intelligence e Desenvolvimento Full Stack para criar soluções escaláveis, inteligentes e orientadas a dados.
 
 <p align="left">
   <a href="https://wa.me/5581999203683" target="_blank">
