@@ -1,11 +1,10 @@
 # Matheus Siqueira
-**
-`
+
 >
 Analista de Dados → Engenharia de Dados
 `
 >
-**
+
 Sou Analista de Dados em transição para Desenvolvimento e Engenharia de Dados, graduando em Ciência da Computação e com especializações em Inteligência Artificial com Banco de Dados, Segurança da Informação e Cloud & Edge Computing. Também concluí o curso técnico em FullStack AI, ampliando minha base em desenvolvimento web e integrações.
 Atualmente, atuo na Secretaria da Fazenda, onde desenvolvo pipelines ETL com SQL, DAX e Power Query, consolido dados públicos e crio dashboards estratégicos no Power BI que apoiam decisões de políticas fiscais. Ainda estruturo modelos relacionais robustos, automatizo análises com Python e aplico metodologias ágeis (Scrum) para garantir entregas consistentes e de impacto.
 Com uma combinação de visão técnica e estratégica, busco aplicar minhas competências em Banco de Dados, Business Intelligence e Desenvolvimento Full Stack para criar soluções escaláveis, inteligentes e orientadas a dados.
