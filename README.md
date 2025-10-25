@@ -1,7 +1,8 @@
 # Matheus Siqueira
 **
 `
->Analista de Dados → Engenharia de Dados
+>
+Analista de Dados → Engenharia de Dados
 `
 >
 **
@@ -66,21 +67,21 @@ Com uma combinação de visão técnica e estratégica, busco aplicar minhas com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="64" height="64" style="padding: 8px;" />
 </p>
 
-<br />
-<br />
+<br/>
+<br/>
 
 ### Estatísticas
 
 <p>
   <img 
-        align="left" 
+    align="left" 
     alt="Estatísticas do GitHub de Matheus" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheussiqueirahub&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas de Matheus" 
+    src="https://github-readme-stats.vercel.app/api?username=matheussiqueirahub&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-      <img 
-      align="left" 
+  <img 
+    align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussiqueirahub&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
